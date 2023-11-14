@@ -65,13 +65,21 @@ op
 ```
 ## OUTPUT
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/2509df95-a1f4-4f2c-8d3d-c141659d8f38)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/eb77db5a-a1a6-4910-9180-bc38ab0aa833)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/a81d817b-acdf-4163-9679-0addb8482832)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/145d509d-39b1-4681-b4e4-0a99f4669c56)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/0fce973b-e315-4eff-9a39-8c94876b74f9)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/ad8b2c6d-8806-4440-91e2-60cd73566b8f)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/d5394034-b1c8-4511-9395-9541e56d7131)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/a84e91d7-bf61-455a-a9b6-7fa3d8fb13b1)
+
 ![image](https://github.com/pradeepasri26/ODD2023---Datascience---Ex-02/assets/131433142/b076c331-274b-440b-9fa7-a3fc21568d1d)
 
 ## RESULT:
